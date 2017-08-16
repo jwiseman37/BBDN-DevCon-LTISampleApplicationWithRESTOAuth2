@@ -1,4 +1,4 @@
-# BBDN-DevCon-LTISampleApplicationWithREST
+# BBDN-DevCon-LTISampleApplicationWithRESTOAuth2
 
 The example shows how to build a simple LTI Tool Provider as a building block in Learn and then make REST calls in it to gather additional data.  Examples of both the client credentials and user authorization code methods are provided.  Some REST calls will require user authorization to be executed.
 
